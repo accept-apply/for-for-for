@@ -9,7 +9,7 @@
 npm install for-for-for
 ```
 
-Because reasons™, to use the `await` variant, you need to encaplsulate your code in async function.
+Because reasons™, to use the `await` variant, you need to encapsulate your code in async function.
 
 ```javascript
 var fff = require(for-for-for);

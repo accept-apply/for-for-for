@@ -1,0 +1,16 @@
+{
+  "name": "for-for-for",
+  "version": "1.0.0",
+  "description": "For-loop running on multiple threads",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/accept-apply/for-for-for.git"
+  },
+  "author": "",
+  "license": "MIT"
+}
+

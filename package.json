@@ -1,6 +1,6 @@
 {
   "name": "for-for-for",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "For-loop running on multiple threads",
   "main": "index.js",
   "scripts": {

@@ -2,7 +2,7 @@ var fff = function(i, l, x, cb, done){
     var threads = Math.min(l-i, x);
 
     return new Promise(function(resolve){
-        var next_i = i,
+        var next_i,
             running_threads = threads;
 
         var next = function(){

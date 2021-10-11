@@ -12,7 +12,7 @@ npm install for-for-for
 Because reasons™, to use the `await` variant, you need to encapsulate your code in async function.
 
 ```javascript
-var fff = require(for-for-for);
+var fff = require('for-for-for');
 
 var main = async function(){
 
@@ -33,7 +33,7 @@ main();
 or, you could use the `done()` callback:
 
 ```javascript
-var fff = require(for-for-for);
+var fff = require('for-for-for');
 
 fff(0, 100, 5, function(i, next){
     // ... some async action here.
